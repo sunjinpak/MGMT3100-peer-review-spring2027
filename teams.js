@@ -22,6 +22,18 @@ const SURVEY_CONFIG = {
     "Team Meeting 10 (4/19)",
     "Team Meeting 11 (4/26)",
     "Team Meeting 12 (5/3)",
+    "Discussion Leader: Ch 3 Case (presenting team only, due 2/8)",
+    "Discussion Leader: Ch 6 Case (presenting team only, due 2/17)",
+    "Discussion Leader: Ch 7 Case (presenting team only, due 2/24)",
+    "Discussion Leader: Ch 8 Case (presenting team only, due 3/1)",
+    "Discussion Leader: Ch 9 Case (presenting team only, due 3/3)",
+    "Discussion Leader: Ch 10 Case (presenting team only, due 3/8)",
+    "Discussion Leader: Ch 11 Case (presenting team only, due 3/10)",
+    "Discussion Leader: Ch 12 Case (presenting team only, due 3/15)",
+    "Discussion Leader: Ch 13 Case (presenting team only, due 3/17)",
+    "Discussion Leader: Ch 14 Case (presenting team only, due 4/7)",
+    "Discussion Leader: Ch 15 Case (presenting team only, due 4/14)",
+    "Discussion Leader: Ch 16 Case (presenting team only, due 5/3)",
     "Team Project Presentation (5/10 or 5/12)"
   ],
 
